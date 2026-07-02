@@ -7,6 +7,7 @@ pub mod artifacts;
 pub mod bounties;
 pub mod broadcasts;
 pub mod channels;
+pub mod contacts;
 pub mod conversations;
 pub mod directory;
 pub mod docs;
